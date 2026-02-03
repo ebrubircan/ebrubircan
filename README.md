@@ -38,7 +38,7 @@ A hybrid AI assistant that automates root cause analysis for real-time log data.
 
 ### 📈 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebrubircan&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ebrubircan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebrubircan&show_icons=true&locale=en&layout=compact&theme=dark" alt="ebrubircan" />
 </p>
 
 ### 📫 Let's Connect!
